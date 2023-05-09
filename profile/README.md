@@ -30,6 +30,14 @@ Our ground-breaking team is here for all of your ideas:
 
 - `Designer`
 
+<br>
+
+#### Pankov Vasya (pank-su)
+
+<img src='https://avatars.githubusercontent.com/u/49202787?v=4' width='250'>
+
+- `Programmeur`
+
 ## Reach us
 
 Contact the team on team@leftbrained.space
