@@ -10,8 +10,6 @@ Our ground-breaking team is here for all of your ideas:
 
 ![Team of 4 people avatars and their positions](img/team.png)
 
-<br>
-
 ## Reach us
 
 Contact the team on team@leftbrained.space
