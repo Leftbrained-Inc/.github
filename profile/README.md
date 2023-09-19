@@ -8,7 +8,7 @@ A little about us: we are a **fresh design and development studio**, creating we
 
 Our ground-breaking team is here for all of your ideas:
 
-![Team of 4 people avatars and their positions](img/team.png)
+![Team of 4 people avatars and their positions](../img/team.png)
 
 ## Reach us
 
