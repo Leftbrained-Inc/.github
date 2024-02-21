@@ -1,5 +1,5 @@
 <h1>
-  <img src="compact-logo.PNG" height="32">
+  <img src="profile/compact-logo.PNG" height="32">
   Лефтбрейнед
 </h1>
 
